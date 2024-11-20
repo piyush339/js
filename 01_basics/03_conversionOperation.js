@@ -23,3 +23,5 @@ console.log(boolean);
 
 //1 convert boolean type -> true
 //0 convert boolean type -> false
+
+
